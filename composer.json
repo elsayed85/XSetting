@@ -1,5 +1,5 @@
 {
-  "name": "orchids/xsetting",
+  "name": "elsayed85/xsetting",
   "description": "Extension setting package for Orchid Platform",
   "type": "library",
   "keywords": [
@@ -8,7 +8,6 @@
   ],
   "license": "MIT",
   "require": {
-    "orchid/platform":"^8.0|dev-master",
     "orchid/settings": "dev-master"
   },
   "autoload": {
